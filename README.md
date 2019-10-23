@@ -1,2 +1,2 @@
 # conserial
-[Python] --- Serial controller
+[Python2] --- Serial controller
